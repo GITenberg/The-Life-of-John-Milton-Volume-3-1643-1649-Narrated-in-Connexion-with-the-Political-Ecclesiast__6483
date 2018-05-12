@@ -1,4 +1,8 @@
 _repo: The-Life-of-John-Milton-Volume-3-1643-1649-Narrated-in-Connexion-with-the-Political-Ecclesiast__6483
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Masson, David
@@ -8,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2064
     wikipedia: http://en.wikipedia.org/wiki/David_Masson
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/6483#The-Life-of-John-Milton-Volume-3-1643-1649-Narrated-in-Connexion-with-the-Political-Ecclesiast_
 gutenberg_issued: '2004-09-01'
 gutenberg_type: Text
 identifiers:
